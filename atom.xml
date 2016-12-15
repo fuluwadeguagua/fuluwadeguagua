@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>福禄娃</title>
+  <subtitle>我能送你回家吗，可能外面要下雨了。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.lianxin.cloud/"/>
+  <updated>2016-12-15T06:40:21.000Z</updated>
+  <id>http://blog.lianxin.cloud/</id>
+  
+  <author>
+    <name>moses</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于这个博客</title>
+    <link href="http://blog.lianxin.cloud/2016/12/15/%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blog.lianxin.cloud/2016/12/15/关于这个博客/</id>
+    <published>2016-12-15T06:30:35.000Z</published>
+    <updated>2016-12-15T06:40:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近辞职回学校，在图书馆准备寻找下一份工作。 朋友突然提起域名，然后我搜索了下，发现了这个域名觉得挺有趣的。<br>折腾了几个小时，用这个域名在github上面搭了个博客。<br>不知道你有没有兴趣写博客。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近辞职回学校，在图书馆准备寻找下一份工作。 朋友突然提起域名，然后我搜索了下，发现了这个域名觉得挺有趣的。&lt;br&gt;折腾了几个小时，用这个域名在github上面搭了个博客。&lt;br&gt;不知道你有没有兴趣写博客。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://blog.lianxin.cloud/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="青春" scheme="http://blog.lianxin.cloud/tags/%E9%9D%92%E6%98%A5/"/>
+    
+  </entry>
+  
+</feed>
